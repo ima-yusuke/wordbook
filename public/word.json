@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "en": "I hear you(ya)",
+        "ja": ["わかるよ（共感）"],
+        "category": "idiom"
+    },
+    {
+        "id": 2,
+        "en": "〇〇on paper ",
+        "ja": ["紙の上では〇〇（実際はそうではない）","例）He looks great on paper.\n紙の上では素晴らしく見える\nつまり履歴書やプロフィールなどに書かれていることは立派である（けれど実際はそうでもない）という意味"],
+        "category": "idiom"
+    },
+    {
+        "id": 3,
+        "en": "acid",
+        "ja": ["麻薬"],
+        "category": "noun"
+    },
+    {
+        "id": 4,
+        "en": "acid",
+        "ja": ["麻薬"],
+        "category": "noun"
+    }
+]
