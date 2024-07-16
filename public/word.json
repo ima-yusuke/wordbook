@@ -3,24 +3,2250 @@
         "id": 1,
         "en": "I hear you(ya)",
         "ja": ["わかるよ（共感）"],
-        "category": "idiom"
+        "category": ["idiom"]
     },
     {
         "id": 2,
         "en": "〇〇on paper ",
         "ja": ["紙の上では〇〇（実際はそうではない）","例）He looks great on paper.\n紙の上では素晴らしく見える\nつまり履歴書やプロフィールなどに書かれていることは立派である（けれど実際はそうでもない）という意味"],
-        "category": "idiom"
+        "category": ["idiom"]
     },
     {
         "id": 3,
         "en": "acid",
         "ja": ["麻薬"],
-        "category": "noun"
+        "category": ["noun"]
     },
     {
         "id": 4,
-        "en": "acid",
-        "ja": ["麻薬"],
-        "category": "noun"
+        "en": "intuition ",
+        "ja": ["直感"],
+        "category": ["noun"]
+    },
+    {
+        "id": 5,
+        "en": "look sharp",
+        "ja": ["急ぐ"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 6,
+        "en": "water under the bridge ",
+        "ja": ["過ぎたことだし大丈夫だよ"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 7,
+        "en": "stay in the present",
+        "ja": ["過去や未来でなく今だけを考える"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 8,
+        "en": "You’re my rock ",
+        "ja": ["あなたは頼りになる存在\n"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 9,
+        "en": "oozing（ウージング）",
+        "ja": ["にじみ出る","じぐじく流れ出る"],
+        "category": ["verb"]
+    },
+    {
+        "id": 10,
+        "en": "stick my nose",
+        "ja": ["お節介をやく"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 11,
+        "en": "I’m on the fence",
+        "ja": ["迷ってる","まだ決めてない"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 12,
+        "en": "in all honesty",
+        "ja": ["正直のところ"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 13,
+        "en": "go down the rabbit hole",
+        "ja": ["複雑な状況から抜け出せない","底なし沼にはまる"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 14,
+        "en": "abuse",
+        "ja": ["悪用","乱用"],
+        "category": ["verb", "noun"]
+    },
+    {
+        "id": 15,
+        "en": "wink wink ",
+        "ja": ["（何かに対し）気づかないふりをする(特に下品なことに対し)"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 16,
+        "en": "slide into the DMs",
+        "ja": ["SNSでダイレクトに相手にメッセージを送ること"],
+        "category": ["idioms"]
+    },
+    {
+        "id": 17,
+        "en": "fingers crossed",
+        "ja": ["幸運を祈る"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 18,
+        "en": "revenue",
+        "ja": ["収入（会社に入るお金）"],
+        "category": ["noun"]
+    },
+    {
+        "id": 19,
+        "en": "income",
+        "ja": ["収入（個人に入るお金）"],
+        "category": ["noun"]
+    },
+    {
+        "id": 20,
+        "en": "buckle up",
+        "ja": ["シートベルトを閉める"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 21,
+        "en": "ride or die",
+        "ja": ["死ぬまで一緒に"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 22,
+        "en": "agree to disagree",
+        "ja": ["意見の不一致を認める"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 23,
+        "en": "you can bet on it",
+        "ja": ["それは間違いないね"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 24,
+        "en": "turn 〇〇 over",
+        "ja": ["〇〇を回転する","ひっくり返す"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 25,
+        "en": "boo",
+        "ja": ["恋人","愛しい人"],
+        "category": ["noun"]
+    },
+    {
+        "id": 26,
+        "en": "get dumped",
+        "ja": ["恋人に振られる"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 27,
+        "en": "spontaneous",
+        "ja": ["自然に起こる"],
+        "category": ["adjective"]
+    },
+    {
+        "id": 28,
+        "en": "a good example of what not to do",
+        "ja": ["反面教師"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 29,
+        "en": "lust",
+        "ja": ["性欲","欲望"],
+        "category": ["noun"]
+    },
+    {
+        "id": 30,
+        "en": "from here on out",
+        "ja": ["これからは","今後は","今後もずっと"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 31,
+        "en": "deep down ",
+        "ja": ["心の中では","本心では"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 32,
+        "en": "off the map",
+        "ja": ["滅びた","もはや存在しない"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 33,
+        "en": "time’s up",
+        "ja": ["時間切れ"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 34,
+        "en": "read receipt",
+        "ja": ["既読"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 35,
+        "en": "rub off on 〇〇",
+        "ja": ["〇〇に影響を与える"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 36,
+        "en": "put yourself out there ",
+        "ja": ["勇気を出してやってみて","自分をさらけ出してみて\n(自分が心地良いと思うゾーンから抜け出すイメージ)"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 37,
+        "en": "No offense / None taken ",
+        "ja": ["No offense は『気を悪くしないでね』","None takenは対する返答で『大丈夫気にしてないよ』"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 38,
+        "en": "butterfinger",
+        "ja": ["不器用な人","ドジな人"],
+        "category": ["noun"]
+    },
+    {
+        "id": 39,
+        "en": "put 〇〇 to bed ",
+        "ja": ["〇〇を寝かせる","〇〇を終わらせる"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 40,
+        "en": "that’s new",
+        "ja": ["初耳だよ"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 41,
+        "en": "alpha ",
+        "ja": ["ボス"],
+        "category": ["noun"]
+    },
+    {
+        "id": 42,
+        "en": "dibs",
+        "ja": ["俺の！","私の！"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 43,
+        "en": "precaution",
+        "ja": ["予防措置","予防"],
+        "category": ["noun"]
+    },
+    {
+        "id": 44,
+        "en": "chill out ",
+        "ja": ["冷静になる","落ち着く"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 45,
+        "en": "touch down",
+        "ja": ["着陸","着地"],
+        "category": ["verb"]
+    },
+    {
+        "id": 46,
+        "en": "tele",
+        "ja": ["遠隔"],
+        "category": ["compound noun"]
+    },
+    {
+        "id": 47,
+        "en": "can’t come soon enough",
+        "ja": ["早く来てほしい"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 48,
+        "en": "hang back",
+        "ja": ["（学校などに）居残る","前に出るのをしぶる"],
+        "category": ["verb"]
+    },
+    {
+        "id": 49,
+        "en": "pants on fire",
+        "ja": ["慌てふためく","焦る(嘘ついてるなと言いたい時に使う)"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 50,
+        "en": "what’s the rush",
+        "ja": ["何をそんなに急いでるの"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 51,
+        "en": "you look sharp",
+        "ja": ["かっこよく決まってるね","ビシッと決まってるね"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 52,
+        "en": "wind your neck in",
+        "ja": ["だまれ（shut up と同じ"],
+        "category": ["idiom（イギリス英語）"]
+    },
+    {
+        "id": 53,
+        "en": "off-color joke",
+        "ja": ["（適切でない、攻撃的な）冗談"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 54,
+        "en": "for what it’s worth ",
+        "ja": ["こんなこと言っても効果（価値）があるのかわかりませんが","とりあえず言っておきますが"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 55,
+        "en": "down to earth ",
+        "ja": ["落ち着いた人"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 56,
+        "en": "loo",
+        "ja": ["トイレ"],
+        "category": ["idiom（イギリス英語）"]
+    },
+    {
+        "id": 57,
+        "en": "ice out",
+        "ja": ["ド派手に着飾る"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 58,
+        "en": "cards on the table ",
+        "ja": ["腹を割って話す","本音を話す"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 59,
+        "en": "I tell you what ",
+        "ja": ["ではこうしよう","こうしたらどうかな"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 60,
+        "en": "sex on a stick ",
+        "ja": ["セクシーな魅力的な人"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 61,
+        "en": "wouldn’t hurt a fly",
+        "ja": ["優しい人（虫も傷つけないという意味からきている）"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 62,
+        "en": "counterpoint",
+        "ja": ["何らかの主張に対して反対の見解を述べることを指す"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 63,
+        "en": "runway",
+        "ja": ["（ファッションショーでモデルが歩く）花道","（飛行機が離着陸する）滑走路"],
+        "category": ["noun"]
+    },
+    {
+        "id": 64,
+        "en": "live in a bubble ",
+        "ja": ["同じような考えを持つグループの中で生きる","狭い世界で生きる","※自分のコミュニティーと生活以外のことを何も知らない、外の世界に興味がない人を指す"],
+        "category": [""]
+    },
+    {
+        "id": 65,
+        "en": "prude",
+        "ja": ["（男女関係、性的なことに関して）堅い人","上品ぶる人"],
+        "category": ["noun"]
+    },
+    {
+        "id": 66,
+        "en": "at any rate ",
+        "ja": ["どちらにせよ","いずれにせよ","何にしろ"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 67,
+        "en": "ball of rage",
+        "ja": ["すごくすごく怒ってる"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 68,
+        "en": "don’t roll your eyes ",
+        "ja": ["あきれた顔しないで"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 69,
+        "en": "harbor",
+        "ja": ["（悪意、邪念、計画などを）心に抱く"],
+        "category": ["verb"]
+    },
+    {
+        "id": 70,
+        "en": "resentment ",
+        "ja": ["（侮辱などに対する）恨み","腹立たしさ"],
+        "category": ["noun"]
+    },
+    {
+        "id": 71,
+        "en": "amnesia",
+        "ja": ["記憶喪失"],
+        "category": ["noun"]
+    },
+    {
+        "id": 72,
+        "en": "neat and tidy ",
+        "ja": ["きちんと整理された"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 73,
+        "en": "off the hook ",
+        "ja": ["危機を抜け出して","責任を免れて","※何か悪い行動をしてしまったが、責任を取らず誰かが見逃してくれる状況でよく使われる"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 74,
+        "en": "slow your roll ",
+        "ja": ["落ち着け","冷静になれ"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 75,
+        "en": "I don’t take side",
+        "ja": ["私は味方しない","私は中立です"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 76,
+        "en": "above all",
+        "ja": ["なにより","何よりも"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 77,
+        "en": "ghost 〇〇",
+        "ja": ["〇〇と突然全ての連絡を経つ","〇〇との関係を終わらせる","〇〇を無視する"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 78,
+        "en": "toxic（トキシック）",
+        "ja": ["有毒な","中毒性のある"],
+        "category": ["adjective"]
+    },
+    {
+        "id": 79,
+        "en": "be a doll",
+        "ja": ["お願いだからいい人になって僕の願いを聞いてといったニュアンス"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 80,
+        "en": "pop off",
+        "ja": ["素早く、突然どこかに行く"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 81,
+        "en": "black sheep of 〜",
+        "ja": ["〜の厄介者","〜の中で浮いている人","〜の恥さらし"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 82,
+        "en": "boil down to 〇〇（名詞）",
+        "ja": ["〇〇ということになる","〇〇に要約される","※色々話したけど結局は〇〇だというニュアンスの時に使う"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 83,
+        "en": "bullet",
+        "ja": ["銃弾"],
+        "category": ["noun"]
+    },
+    {
+        "id": 84,
+        "en": "false alarm ",
+        "ja": ["誤警報","誤報"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 85,
+        "en": "add up to 〜",
+        "ja": ["結局（つまるところ）〜ということになる"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 86,
+        "en": "cross paths with 〜",
+        "ja": ["〜とばったり会う"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 87,
+        "en": "drink like a fish ",
+        "ja": ["大量にお酒を飲む"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 88,
+        "en": "slip out of 〜",
+        "ja": ["〜から抜け出す","〜からこぼれ落ちる"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 89,
+        "en": "brother in arms ",
+        "ja": ["戦友","新しい仲間"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 90,
+        "en": "come over ",
+        "ja": ["こちらにやってくる","遊びに来る","会いに来る"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 91,
+        "en": "on the verge of 〜",
+        "ja": ["〜する寸前","今にも〜しようとして"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 92,
+        "en": "meant to be 〜",
+        "ja": ["〜する運命だ","〜であるべきだ"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 93,
+        "en": "cut in ",
+        "ja": ["話をさえぎる","割り込む"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 94,
+        "en": "overdue",
+        "ja": ["期限の切れた"],
+        "category": ["adjective"]
+    },
+    {
+        "id": 95,
+        "en": "I feel underdressed ",
+        "ja": ["場違いな気がする"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 96,
+        "en": "dirty dog",
+        "ja": ["卑怯な人","悪知恵の働く人"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 97,
+        "en": "purity ring",
+        "ja": ["結婚するまで性行為をせず純潔を守ることを誓う指輪"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 98,
+        "en": "bend over ",
+        "ja": ["全力をつくす","最善を尽くす","精一杯の努力する"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 99,
+        "en": "what looks good ",
+        "ja": ["何が良さそうですか？（何がいい？）"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 100,
+        "en": "bae ( before anyone else)",
+        "ja": ["Babyからきた愛しい人","恋人","好きな人"],
+        "category": ["noun"]
+    },
+    {
+        "id": 101,
+        "en": "happy belated birthday ",
+        "ja": ["遅くなったけどお誕生日おめでとう"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 102,
+        "en": "snap of fingers ",
+        "ja": ["（指をパチンと鳴らすくらい）一瞬","すぐに"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 103,
+        "en": "more the merrier ",
+        "ja": ["大勢のが方が楽しい"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 104,
+        "en": "doesn’t ring a bell ",
+        "ja": ["心当たりがない","ピンとこない","見覚えがない"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 105,
+        "en": "it means a lot ",
+        "ja": ["とっても嬉しい","とっても感謝しています"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 106,
+        "en": "hit rock bottom",
+        "ja": ["どん底におちる","最悪の状態になる"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 107,
+        "en": "break a leg ",
+        "ja": ["幸運を祈る","がんばれ"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 108,
+        "en": "beer me ",
+        "ja": ["ビールをちょうだい","ビールを持ってきて"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 109,
+        "en": "cut the crap",
+        "ja": ["くだらないこと言うな","ふさげるのもいい加減にしろ"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 110,
+        "en": "oddly enough ",
+        "ja": ["不思議なことに","奇妙なことに"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 111,
+        "en": "wrap up",
+        "ja": ["（会議、仕事、演説などを）まとめる","終わらせる","切り上げる"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 112,
+        "en": "be動詞 + dead set on 〜（V-ing ）",
+        "ja": ["Vすると固く決心している"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 113,
+        "en": "mull over〜",
+        "ja": ["〜について熟考する","〜についてよく考える"],
+        "category": ["verb"]
+    },
+    {
+        "id": 114,
+        "en": "You can’t have your cake and eat it too",
+        "ja": ["どちらかを選ばないといけないというニュアンス"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 115,
+        "en": "as of now ",
+        "ja": ["現時点では"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 116,
+        "en": "in someone’s(your) shoes ",
+        "ja": ["〇〇の立場になれば"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 117,
+        "en": "shaken up ",
+        "ja": ["動揺している","ショックを受けている"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 118,
+        "en": "come on strong ",
+        "ja": ["派手に振る舞う","強く主張する"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 119,
+        "en": "for crying out loud ",
+        "ja": ["勘弁してよ","お願いだからやめてよ","いい加減にしてよ"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 120,
+        "en": "circle the wagons ",
+        "ja": ["集団で何か問題を解決する","団結する"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 121,
+        "en": "I (you) nailed it ",
+        "ja": ["ばっちりでしたね","完璧でしたね","キマったね"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 122,
+        "en": "way to go ",
+        "ja": ["よくやった","でかした"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 123,
+        "en": "bless my soul ",
+        "ja": ["まさか、なんてことだ"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 124,
+        "en": "by any chance ",
+        "ja": ["もしかして","ひょっとして"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 125,
+        "en": "fascinating ",
+        "ja": ["魅力的な"],
+        "category": ["adjective"]
+    },
+    {
+        "id": 126,
+        "en": "alley",
+        "ja": ["路地","小道","裏通り"],
+        "category": ["noun"]
+    },
+    {
+        "id": 127,
+        "en": "reckon ",
+        "ja": ["考える"],
+        "category": ["verb（イギリス英語）"]
+    },
+    {
+        "id": 128,
+        "en": "leave it to me",
+        "ja": ["私に任せて"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 129,
+        "en": "stick to 〜 ",
+        "ja": ["（決定・約束などを）忠実に守る","〜に忠実である"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 130,
+        "en": "out of bounds ",
+        "ja": ["立ち入り禁止"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 131,
+        "en": "way off base",
+        "ja": ["とんでもない勘違い","的外れ"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 132,
+        "en": "stay out of 〇〇 hair",
+        "ja": ["〇〇の邪魔をしない","〇〇をイライラさせない"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 133,
+        "en": "bit of a bind ",
+        "ja": ["嫌なこと","困ったこと"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 134,
+        "en": "the early bird catches the worm ",
+        "ja": ["早起きは三文の徳"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 135,
+        "en": "cut to the chase ",
+        "ja": ["さっさと本題を言え","要点に入れ"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 136,
+        "en": "ride 〇〇 out",
+        "ja": ["〇〇を乗り切る","〇〇を耐える"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 137,
+        "en": "〇〇( yourなど) speed ",
+        "ja": ["〇〇の趣味に合う","※〇〇の肌にあう、しっくりくると言ったニュアンス"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 138,
+        "en": "blow off steam ",
+        "ja": ["ストレス発散する","息抜きをする"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 139,
+        "en": "I’ve never been more sure of anything",
+        "ja": ["これほど確信したことはない"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 140,
+        "en": "spread the word ",
+        "ja": ["評判やうわさを広める"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 141,
+        "en": "first base",
+        "ja": ["キス"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 142,
+        "en": "second base",
+        "ja": ["胸やお尻を触る"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 143,
+        "en": "Third base",
+        "ja": ["陰部を触る"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 144,
+        "en": "Home run",
+        "ja": ["セックスする"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 145,
+        "en": "hog all the credit ",
+        "ja": ["いいところを持ってく","自分だけが評価される"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 146,
+        "en": "pine for 〜",
+        "ja": ["〜が恋しい","〜を恋い焦がれる"],
+        "category": ["verb"]
+    },
+    {
+        "id": 147,
+        "en": "put you through ",
+        "ja": ["苦労をかけた","困らせた","※I’ll put you through で電話をお繋ぎしますの意味に"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 148,
+        "en": "gather yourself (herself など）together ",
+        "ja": ["勇気を奮い起こす"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 149,
+        "en": "break the news ",
+        "ja": ["ニュースを伝える","公表する","打ち明ける"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 150,
+        "en": "seal 〇〇 fate",
+        "ja": ["〇〇の運命を決定する"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 151,
+        "en": "in (my your his 、、、) wheelhouse ",
+        "ja": ["〇〇にとってお手のもの","〇〇の得意分野"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 152,
+        "en": "knock 〇〇(yourなど) socks off ",
+        "ja": ["（良いことをして）〇〇を仰天させる","感激させる","驚かせる"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 153,
+        "en": "(I) might as well try",
+        "ja": ["せっかくだから試してみよう","※主語がIの場合のみ、youだと意味が変わる"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 154,
+        "en": "fill me in ",
+        "ja": ["詳しく教えてよ","※ある出来事についてそのことが起こった際にその場所にあなたがいなかったときによく使われる表現"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 155,
+        "en": "bail on me ",
+        "ja": ["私を見捨てる","私を裏切る"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 156,
+        "en": "bear down ",
+        "ja": ["全力を尽くす","大いに頑張る"],
+        "category": ["verb"]
+    },
+    {
+        "id": 157,
+        "en": "wave a white flag ",
+        "ja": ["降参する"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 158,
+        "en": "go down the toilet ",
+        "ja": ["水の泡となる","失敗に終わる"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 159,
+        "en": "box 〇〇 out",
+        "ja": ["ウソなどをついて〇〇をはぶけにすること","※特にごまかしや操作によって、ある状況から誰かを排除すること"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 160,
+        "en": "out of the box ",
+        "ja": ["常識にとらわれない"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 161,
+        "en": "top of the morning ",
+        "ja": ["おはよう"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 162,
+        "en": "on the ball",
+        "ja": ["有能な","ぬかりない"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 163,
+        "en": "up to code",
+        "ja": ["規約に合致して"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 164,
+        "en": "deceit",
+        "ja": ["詐欺","偽り"],
+        "category": ["noun"]
+    },
+    {
+        "id": 165,
+        "en": "F.Y.I",
+        "ja": ["For your information の略でご参考までにという意味"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 166,
+        "en": "clear the air ",
+        "ja": ["誤解をとく","わだかまりをなくす","※気まずい雰囲気や誤解を解いて新しく始めようというニュアンス"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 167,
+        "en": "if you’ll excuse me ",
+        "ja": ["悪いけどそろそろ失礼するよ","※会話の途中で退出する際に使う"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 168,
+        "en": "firm believer in 〜",
+        "ja": ["〜を固く信じています"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 169,
+        "en": "kink",
+        "ja": ["性的に異常な","変態的な"],
+        "category": ["adjective"]
+    },
+    {
+        "id": 170,
+        "en": "kick 〇〇 out",
+        "ja": ["〇〇を解雇する","〇〇を排除する","〇〇を追い払う"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 171,
+        "en": "very last minute ",
+        "ja": ["ギリギリになって","土壇場になって"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 172,
+        "en": "do( does) a good deed",
+        "ja": ["立派な行いをする","善行を行う"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 173,
+        "en": "I won’t let you down ",
+        "ja": ["期待を裏切らない","あなたを失望させない"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 174,
+        "en": "in a rut",
+        "ja": ["マンネリになって","型にハマった"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 175,
+        "en": "give it a shot ",
+        "ja": ["やってみようよ","挑戦してみようよ"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 176,
+        "en": "blow a gasket ",
+        "ja": ["カンカンに怒る","キレる"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 177,
+        "en": "cuddle",
+        "ja": ["寄り添う","抱きしめる"],
+        "category": ["verb"]
+    },
+    {
+        "id": 178,
+        "en": "not likely ",
+        "ja": ["（相手の発言に対して）そうはならないと思うよ","そうはならないだろうね"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 179,
+        "en": "〇〇 drive me nuts",
+        "ja": ["（〇〇は）気を狂わせる","（〇〇は）イライラさせる"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 180,
+        "en": "save your breath ",
+        "ja": ["余計なことは言わなくていい"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 181,
+        "en": "easy come, easy go",
+        "ja": ["簡単に手に入るのは簡単に失う"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 182,
+        "en": "born and bred ",
+        "ja": ["生まれも育ちも","生まれ育った"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 183,
+        "en": "grief",
+        "ja": ["深い悲しみ","悲観"],
+        "category": ["noun"]
+    },
+    {
+        "id": 184,
+        "en": "grieve",
+        "ja": ["深く悲しむ"],
+        "category": ["verb"]
+    },
+    {
+        "id": 185,
+        "en": "",
+        "ja": [""],
+        "category": [""]
+    },
+    {
+        "id": 186,
+        "en": "up-front",
+        "ja": ["率直で","正直で","前もって"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 187,
+        "en": "shots fired ",
+        "ja": ["侮辱的なまずいことをする（言う）","挑発的なことをする（言う）"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 188,
+        "en": "knock it out of the park",
+        "ja": ["大成功をおさめる","上手くいく"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 189,
+        "en": "are you mocking me?",
+        "ja": ["バカにしてんのか？","なめてるの？","※※喧嘩の時などに使う強い表現なので注意"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 190,
+        "en": "back out",
+        "ja": ["約束、契約を）取り消す","破棄する","約束を破る"],
+        "category": ["verb"]
+    },
+    {
+        "id": 191,
+        "en": "for ages ",
+        "ja": ["長い間","ずっと","長期間"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 192,
+        "en": "marathon talk",
+        "ja": ["長時間会談"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 193,
+        "en": "every second of every day ",
+        "ja": ["常に何かに注目、焦点を当ててることを強調する表現"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 194,
+        "en": "fair enough ",
+        "ja": ["なるほどそれなら理解できる、納得","それは公平だ"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 195,
+        "en": "load up ",
+        "ja": ["荷物などを積む"],
+        "category": ["verb"]
+    },
+    {
+        "id": 196,
+        "en": "lash out at 〜",
+        "ja": ["〜を激しく批判する","〜に毒舌を浴びせる"],
+        "category": ["verb"]
+    },
+    {
+        "id": 197,
+        "en": "set in stone ",
+        "ja": ["確定している","変更できない"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 198,
+        "en": "for 〇〇 (your) sake ",
+        "ja": ["〇〇のために","〇〇に免じて","for your own sakeであなた自身のために"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 199,
+        "en": "no sweat ",
+        "ja": ["お安いご用だ","問題ない","大丈夫","※相手のお願いを聞いても問題ないという意味"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 200,
+        "en": "sneak a peek ",
+        "ja": ["プレビュー","ちらっと見る"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 201,
+        "en": "don’t fret",
+        "ja": ["心配するな"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 202,
+        "en": "top shelf ",
+        "ja": ["最高級の","一流の"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 203,
+        "en": "out of the picture ",
+        "ja": ["もう関係ない","もう関わりがない","※She is out of the picture now.彼女とはもう何の関係もないんだ"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 204,
+        "en": "truce",
+        "ja": ["停戦","休戦"],
+        "category": ["noun"]
+    },
+    {
+        "id": 205,
+        "en": "mere",
+        "ja": ["ほんの","わずかな"],
+        "category": ["adjective"]
+    },
+    {
+        "id": 206,
+        "en": "extraordinary",
+        "ja": ["並外れた","異常な"],
+        "category": ["adjective"]
+    },
+    {
+        "id": 207,
+        "en": "on with you",
+        "ja": ["あっちにいけ","立ち去れ"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 208,
+        "en": "with any luck ",
+        "ja": ["うまくいけば","運が良ければ"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 209,
+        "en": "plot",
+        "ja": ["陰謀","たくらみ"],
+        "category": ["noun"]
+    },
+    {
+        "id": 210,
+        "en": "brilliant",
+        "ja": ["素晴らしい","見事な"],
+        "category": ["adjective"]
+    },
+    {
+        "id": 211,
+        "en": "good lord",
+        "ja": ["なんてことだ","おやおや","※主に驚いたりしたときに使う表現"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 212,
+        "en": "bouncing off the walls",
+        "ja": ["超大騒ぎというニュアンス","元気いっぱい"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 213,
+        "en": "cover up〜",
+        "ja": ["〜をいんぺいする"],
+        "category": ["verb"]
+    },
+    {
+        "id": 214,
+        "en": "lump ~ in with",
+        "ja": ["～を…と同列と見なす"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 215,
+        "en": "essentially",
+        "ja": ["本質的に","基本的に"],
+        "category": ["adverb"]
+    },
+    {
+        "id": 216,
+        "en": "I couldn’t be less interested ",
+        "ja": ["まったく興味なかったよ"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 217,
+        "en": "with all due respect ",
+        "ja": ["お言葉を返すようですが","失礼ながら","※相手に敬意を払いながら反対の意見を述べる際に使う"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 218,
+        "en": "face the music ",
+        "ja": ["自分が招いた悪い状況を受け入れる","自分の言動の報いを受ける","※自業自得のようなイメージ"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 219,
+        "en": "speak of the devil ",
+        "ja": ["噂をすれば"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 220,
+        "en": "run up to 〜",
+        "ja": ["〜まで急いでいく","〜まで駆け上がる"],
+        "category": ["verb"]
+    },
+    {
+        "id": 221,
+        "en": "I’m on it",
+        "ja": ["（問題や課題に）今取り掛かります","※「わかりました、やります」という意味"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 222,
+        "en": "let’s hit the road ",
+        "ja": ["出かけよう","出発しよう"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 223,
+        "en": "jump to conclusions",
+        "ja": ["はやとちり","結論を急ぐ","※事実を確認せずに結論を出すこと"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 224,
+        "en": "flat tire",
+        "ja": ["パンクしたタイヤ"],
+        "category": ["noun"]
+    },
+    {
+        "id": 225,
+        "en": "walk of shame",
+        "ja": ["誰かとワンナイトした後昨晩と同じ服装で帰路にたつ行為のこと","※特に女性に対して使われることが多い"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 226,
+        "en": "come up for air ",
+        "ja": ["一息入れる","休憩する","※忙しい時や疲れた時に使う表現"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 227,
+        "en": "pull up ",
+        "ja": ["(馬、乗り物などから)降りる","飛び降りる"],
+        "category": ["verb"]
+    },
+    {
+        "id": 228,
+        "en": "as I recall",
+        "ja": ["私の記憶では","今思い出すと"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 229,
+        "en": "train wreck ",
+        "ja": ["大惨事","大失敗","※特に人間関係や仕事などでの大失敗を指すことが多い"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 230,
+        "en": "potayto potahto ",
+        "ja": ["どっちでも同じ","たいして違いはない","※意味は同じ、どちらでもいいというニュアンス"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 231,
+        "en": "sneak out ",
+        "ja": ["（こっそり、密かに）離れる","抜け出す"],
+        "category": ["verb"]
+    },
+    {
+        "id": 232,
+        "en": "stand in 〇〇 way",
+        "ja": ["〇〇の邪魔をする","〇〇の足を引っ張る"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 233,
+        "en": "on second thought",
+        "ja": ["考え直した結果","よく考えたら","※最初の考えとは違う結論に至った時に使う表現"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 234,
+        "en": "cry for attention",
+        "ja": ["注目してほしい","注目を浴びたい","※他人に自分のことを気にかけてもらいたいときに使う表現"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 235,
+        "en": "let the cat out of the bag ",
+        "ja": ["（うっかり）秘密を漏らす"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 236,
+        "en": "bump into 〜",
+        "ja": ["〜にばったり出会う","〜に偶然出くわす"],
+        "category": ["verb"]
+    },
+    {
+        "id": 237,
+        "en": "piece of work",
+        "ja": ["（人に対して使うと）厄介な人","不愉快な人","※特に性格が悪い人に対して使うことが多い"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 238,
+        "en": "page six ",
+        "ja": ["ゴシップ記事","スキャンダル記事"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 239,
+        "en": "you drive me crazy",
+        "ja": ["あなたのせいで私は怒っている"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 240,
+        "en": "pay no mind to 〜",
+        "ja": ["〜を気にしない","〜を無視する"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 241,
+        "en": "cue to〜",
+        "ja": ["〜をするきっかけ","〜する合図"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 242,
+        "en": "hash out",
+        "ja": ["（何か）について詳細に話し合う"],
+        "category": ["verb"]
+    },
+    {
+        "id": 243,
+        "en": "There's no time like the present",
+        "ja": ["今に勝るときはない","今がチャンス"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 244,
+        "en": "either way ",
+        "ja": ["どのみち","どちらにしても"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 245,
+        "en": "sick of you ",
+        "ja": ["君にうんざりしている"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 246,
+        "en": "my cup of tea",
+        "ja": ["私の好み","私の趣味"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 247,
+        "en": "How are you holding up?",
+        "ja": ["元気でやってますか？","お変わりないですか？"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 248,
+        "en": "what are you up to?",
+        "ja": ["なにしてるの？","※道で友達に偶然会ったら日本語でも「何してんの？」って聞くそのイメージ"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 249,
+        "en": "eff up (fuck up)",
+        "ja": ["めちゃくちゃにする"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 250,
+        "en": "roller coaster",
+        "ja": ["（感情の）激変"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 251,
+        "en": "I’m game",
+        "ja": ["（危険や困難が伴うことを）思い切ってやってみる"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 252,
+        "en": "rock the boat",
+        "ja": ["波風を立てる","事を荒立てる"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 253,
+        "en": "clean slate ",
+        "ja": ["（過去の出来事を）帳消しにする","水に流す"],
+        "category": [""]
+    },
+    {
+        "id": 254,
+        "en": "in the meantime ",
+        "ja": ["その間"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 255,
+        "en": "born liar",
+        "ja": ["生まれながらのウソつき"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 256,
+        "en": "(get) cold feet",
+        "ja": ["おじけつく","ちゅうちょする"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 257,
+        "en": "seduce",
+        "ja": ["誘惑する","魅惑する"],
+        "category": ["verb"]
+    },
+    {
+        "id": 258,
+        "en": "appetite ",
+        "ja": ["食欲"],
+        "category": ["noun"]
+    },
+    {
+        "id": 259,
+        "en": "social butterfly ",
+        "ja": ["社交的な人","人と会うことが好きな人"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 260,
+        "en": "ambulance",
+        "ja": ["救急車"],
+        "category": ["noun"]
+    },
+    {
+        "id": 261,
+        "en": "apparently ",
+        "ja": ["どうやら〜らしいよ","明らかに"],
+        "category": ["adverb"]
+    },
+    {
+        "id": 262,
+        "en": "stand by ",
+        "ja": ["援助する","支持する","※stand by meで「私の味方でいてくれ」という意味になることが多い"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 263,
+        "en": "bug me",
+        "ja": ["イライラさせる","悩ませる"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 264,
+        "en": "that works for me ",
+        "ja": ["私はそれでいいよ（都合が良い時）"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 265,
+        "en": "screw up",
+        "ja": ["失敗する","しくじる","※特に大きな失敗を指すことが多い"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 266,
+        "en": "leek",
+        "ja": ["ねぎ"],
+        "category": ["noun"]
+    },
+    {
+        "id": 267,
+        "en": "suck",
+        "ja": ["吸う","舐める","※suck it upで「我慢しろ」という意味になることが多い"],
+        "category": ["verb"]
+    },
+    {
+        "id": 268,
+        "en": "sleep can wait ",
+        "ja": ["睡眠は後回し"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 269,
+        "en": "moist",
+        "ja": ["湿った","じめじめした"],
+        "category": ["adjective"]
+    },
+    {
+        "id": 270,
+        "en": "gooey",
+        "ja": ["（食べ物などが）ねばねばした","粘り気のある","ぬるぬるした"],
+        "category": ["adjective"]
+    },
+    {
+        "id": 271,
+        "en": "tart",
+        "ja": ["酸っぱい","すっぱい"],
+        "category": ["adjective"]
+    },
+    {
+        "id": 272,
+        "en": "screw you",
+        "ja": ["ふざけんな","バカ野郎"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 273,
+        "en": "help yourself ",
+        "ja": ["どうぞ召し上がれ","ご自由に召し上がりください"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 274,
+        "en": "lmao（Laughing my ass off)",
+        "ja": ["大爆笑"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 275,
+        "en": "mess up",
+        "ja": ["混乱している","精神が不安定だ"],
+        "category": ["verb"]
+    },
+    {
+        "id": 276,
+        "en": "I’m jumpy ",
+        "ja": ["ビクビクする"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 277,
+        "en": "don’t tease me",
+        "ja": ["からかわないで"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 278,
+        "en": "Neither do(did) I",
+        "ja": ["私もそうではありません"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 279,
+        "en": "I count on you ",
+        "ja": ["頼りにしています"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 280,
+        "en": "felony ",
+        "ja": ["重罪"],
+        "category": ["noun"]
+    },
+    {
+        "id": 281,
+        "en": "save up",
+        "ja": ["貯める","蓄える"],
+        "category": ["verb"]
+    },
+    {
+        "id": 282,
+        "en": "through up ",
+        "ja": ["吐く","嘔吐する"],
+        "category": ["verb"]
+    },
+    {
+        "id": 283,
+        "en": "oink oink ",
+        "ja": ["豚の鳴き声に聞こえる"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 284,
+        "en": "manipulate",
+        "ja": ["操作する","操る"],
+        "category": ["verb"]
+    },
+    {
+        "id": 285,
+        "en": "posse ",
+        "ja": ["仲間","一団"],
+        "category": ["noun"]
+    },
+    {
+        "id": 286,
+        "en": "how should I know ",
+        "ja": ["知るわけないでしょ"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 287,
+        "en": "rain check ",
+        "ja": ["また今度ね（誘いを丁寧に断る言い方）","※特に約束を断る時に使うことが多い"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 288,
+        "en": "what planet are you from ",
+        "ja": ["何を訳の分からないことを言ってるの","何を考えてるの","※相手の言動が理解できない時に使う表現"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 289,
+        "en": "I owe you ",
+        "ja": ["借りができた"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 290,
+        "en": "for the record ",
+        "ja": ["一応言っとくけど","念のため言うけど"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 291,
+        "en": "dodge ",
+        "ja": ["（捕まえられないよう）かわす","回避する"],
+        "category": ["verb"]
+    },
+    {
+        "id": 292,
+        "en": "walk me(you) out",
+        "ja": ["見送る","送り出す","※特に自宅や会社の玄関まで送り出すことが多い"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 293,
+        "en": "run into 〜",
+        "ja": ["〜に偶然会う","〜にばったり出くわす"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 294,
+        "en": "bio",
+        "ja": ["プロフィールのこと","経歴","自己紹介"],
+        "category": ["noun"]
+    },
+    {
+        "id": 295,
+        "en": "I’m broke ",
+        "ja": ["お金がない","金欠だ","※特に若者が使うことが多い表現"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 296,
+        "en": "24/7",
+        "ja": ["年中無休","24時間365日"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 297,
+        "en": "I’m up for it",
+        "ja": ["〜しましょう","行きましょう","やりましょう","※何かしらの提案や誘いに対して"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 298,
+        "en": "be my guest",
+        "ja": ["ご自由にどうぞ","どうぞお好きに","※相手に許可を与える時に使う表現"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 299,
+        "en": "turn up ",
+        "ja": ["思いがけず出てくる","現れる","※turn up the volumeで「音量を上げる」という意味になることが多い"],
+        "category": ["verb"]
+    },
+    {
+        "id": 300,
+        "en": "don’t sweat it ",
+        "ja": ["心配するな","大丈夫","※相手のお願いを聞いても問題ないという意味"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 301,
+        "en": "hand it over",
+        "ja": ["よこせよ","渡せよ","※何かを渡す時に使う表現"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 302,
+        "en": "you look beat ",
+        "ja": ["疲れてるようにみえる","疲れてるね","※特に外見が疲れている時に使う表現"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 303,
+        "en": "dear lord",
+        "ja": ["omgと同じニュアンス","※驚いたりしたときに使う表現"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 304,
+        "en": "sincere ",
+        "ja": ["心から","誠実な","誠心誠意の"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 305,
+        "en": "please accept my apology ",
+        "ja": ["よりフォーマルな謝り方","お詫び申し上げます"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 306,
+        "en": "I was just pulling your leg",
+        "ja": ["ちょっとからかっただけだよ","冗談だよ","※相手をからかったり冗談を言った後に使う表現"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 307,
+        "en": "beat 〇〇 to a pulp",
+        "ja": ["〇〇をボコボコにする","※暴力的な表現"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 308,
+        "en": "I wish I was",
+        "ja": ["現実に起る可能性のある時に使う","※I wish I was rich.「お金持ちだったらいいのにな」という意味"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 309,
+        "en": "I wish I were",
+        "ja": ["現実に絶対起こらない時に使う","※I wish I were a bird.「鳥だったらいいのにな」という意味"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 310,
+        "en": "just in case ",
+        "ja": ["念のため"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 311,
+        "en": "you wish",
+        "ja": ["夢でも見てろ","そんなことあるわけない","※相手の望みが叶わないことを強調する時に使う表現"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 312,
+        "en": "whatever you say ",
+        "ja": ["はいはい分かりましたよ","※相手の言うことを受け入れる時に使う表現"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 313,
+        "en": "optimistic",
+        "ja": ["楽観的な","前向きな"],
+        "category": ["adjective"]
+    },
+    {
+        "id": 314,
+        "en": "pessimistic ",
+        "ja": ["悲観的な","消極的な"],
+        "category": ["adjective"]
+    },
+    {
+        "id": 315,
+        "en": "splendid ",
+        "ja": ["素晴らしい","見事な"],
+        "category": ["adjective"]
+    },
+    {
+        "id": 316,
+        "en": "likewise ",
+        "ja": ["同じく","お互い様"],
+        "category": ["adverb"]
+    },
+    {
+        "id": 317,
+        "en": "irresistible ",
+        "ja": ["モテモテな","魅力的な"],
+        "category": ["adjective"]
+    },
+    {
+        "id": 318,
+        "en": "for a change ",
+        "ja": ["珍しく","変わりに","※普段と違うことをする時に使う表現"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 319,
+        "en": "it is what it is ",
+        "ja": ["仕方がない","しょうがない","※状況が変わらないことを受け入れる時に使う表現"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 320,
+        "en": "scram",
+        "ja": ["さっさと出てけ","消えろ","※相手を追い払う時に使う表現"],
+        "category": ["verb"]
+    },
+    {
+        "id": 321,
+        "en": "doze off ",
+        "ja": ["うとうと居眠りする","寝入る","※特に眠気を感じた時に使う表現"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 322,
+        "en": "bruise ",
+        "ja": ["〜を傷つける","傷をつける","※体に傷をつけることが多い"],
+        "category": ["verb"]
+    },
+    {
+        "id": 323,
+        "en": "AWOL （Absent without leave）",
+        "ja": ["バックレる","無断欠勤する","※軍隊で使われる言葉"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 324,
+        "en": "mighty forces ",
+        "ja": ["強大な力","※mightyは「強力な」という意味"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 325,
+        "en": "be bold ",
+        "ja": ["だいたんになれ","※何かをする時に勇気を出すように言う表現"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 326,
+        "en": "sup",
+        "ja": ["What’s upの略","調子はどう？"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 327,
+        "en": "stroll ",
+        "ja": ["散歩","ぶらぶら歩く","※特にゆっくり歩くことが多い"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 328,
+        "en": "hold back ",
+        "ja": ["遠慮する","控える","※感情を抑えることが多い"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 329,
+        "en": "dumbass",
+        "ja": ["アホな人","間抜けの人"],
+        "category": ["noun"]
+    },
+    {
+        "id": 330,
+        "en": "how so?",
+        "ja": ["どうしてそうなんだ？"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 331,
+        "en": "get in line",
+        "ja": ["列に並ぶ"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 332,
+        "en": "just wondering ",
+        "ja": ["ちょっと知りたかっただけ"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 333,
+        "en": "chores ",
+        "ja": ["家事"],
+        "category": ["noun"]
+    },
+    {
+        "id": 334,
+        "en": "don’t hold your breath",
+        "ja": ["期待するな"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 335,
+        "en": "you have my word ",
+        "ja": ["約束する"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 336,
+        "en": "you got this",
+        "ja": ["君ならできるよ"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 337,
+        "en": "What are the odds",
+        "ja": ["すごい偶然だね","※what are the chancesも同じ意味"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 338,
+        "en": "1 grand",
+        "ja": ["1 grandは1000ドルの意味(約10万)"],
+        "category": ["noun"]
+    },
+    {
+        "id": 339,
+        "en": "Holla at you boy",
+        "ja": ["またあとで会おうぜ"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 340,
+        "en": "forthright",
+        "ja": ["率直","正直"],
+        "category": ["adverb"]
+    },
+    {
+        "id": 341,
+        "en": "in the vault",
+        "ja": ["誰にも言わない","秘密にする"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 342,
+        "en": "obsessed",
+        "ja": ["執着","取り憑かれた","熱中している"],
+        "category": ["adjective"]
+    },
+    {
+        "id": 343,
+        "en": "redemption ",
+        "ja": ["取り戻し","買い戻し","救済","救い"],
+        "category": ["noun"]
+    },
+    {
+        "id": 344,
+        "en": "premise",
+        "ja": ["根拠","前提","前提条件"],
+        "category": ["noun"]
+    },
+    {
+        "id": 345,
+        "en": "profound ",
+        "ja": ["深い","深遠な","深い意味を持つ"],
+        "category": ["adjective"]
+    },
+    {
+        "id": 346,
+        "en": "controversy ",
+        "ja": ["論争","論議"],
+        "category": ["noun"]
+    },
+    {
+        "id": 347,
+        "en": "civilization ",
+        "ja": ["文明","文化"],
+        "category": ["noun"]
+    },
+    {
+        "id": 348,
+        "en": "literature ",
+        "ja": ["文学","文芸"],
+        "category": ["noun"]
+    },
+    {
+        "id": 349,
+        "en": "tempting ",
+        "ja": ["魅力的な","誘惑する","心をそそる"],
+        "category": ["adjective"]
+    },
+    {
+        "id": 350,
+        "en": "get smashed ",
+        "ja": ["泥酔する","酔っ払う"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 351,
+        "en": "you’ve got my vote ",
+        "ja": ["私はあなたに賛成です","私はあなたを支持します"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 352,
+        "en": "get a sense of 〜",
+        "ja": ["〜を感じとる","〜を理解する","〜を把握する"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 353,
+        "en": "learning curve ",
+        "ja": ["知識取得中","学習過程"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 354,
+        "en": "keep it down ",
+        "ja": ["静かにしてください","声を抑えてください"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 355,
+        "en": "the world is your oyster ",
+        "ja": ["世界はあなたの思いのままになる","※「世界はあなたのものだ」という意味"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 356,
+        "en": "you’re freaking me out ",
+        "ja": ["本当にもう勘弁して（怖いから、気持ち悪いから）","死ぬほどびっくりした"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 357,
+        "en": "I wanna gain weight ",
+        "ja": ["太りたい"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 358,
+        "en": "good head on one's shoulders",
+        "ja": ["頭が良い","頭の回転が速い","※物事を理解するのが早いことを指す"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 359,
+        "en": "stain",
+        "ja": ["（インクや血などの）染み"],
+        "category": ["noun"]
+    },
+    {
+        "id": 360,
+        "en": "greedy ",
+        "ja": ["欲深い","貪欲な","欲張りな"],
+        "category": ["adjective"]
+    },
+    {
+        "id": 361,
+        "en": "migration ",
+        "ja": ["移動","移住"],
+        "category": ["noun"]
+    },
+    {
+        "id": 362,
+        "en": "can I get ・ can I have",
+        "ja": ["can I getは寿司屋でピザありますか？など普通ないけどあるか確認するニュアンス"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 363,
+        "en": "someone・anyone",
+        "ja": ["Someoneは誰か特定の人でI need someone と言えばコーディングができる誰かのように特定の人","I need anyone と言えば誰でも良いから人を探している"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 364,
+        "en": "knock it off ",
+        "ja": ["いい加減にして","やめてくれ","※相手の行動を止める時に使う表現"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 365,
+        "en": "as you were",
+        "ja": ["元に、なおれ","※軍隊で使われる言葉"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 366,
+        "en": "puddle",
+        "ja": ["水たまり"],
+        "category": ["noun"]
+    },
+    {
+        "id": 367,
+        "en": "pillowy ",
+        "ja": ["（枕のように）やらかい","ふかふかの"],
+        "category": ["adjective"]
+    },
+    {
+        "id": 368,
+        "en": "acidity ",
+        "ja": ["酸味","酸性"],
+        "category": ["noun"]
+    },
+    {
+        "id": 369,
+        "en": "citrus（シトラス）",
+        "ja": ["かんきつ","柑橘類"],
+        "category": ["noun"]
+    },
+    {
+        "id": 370,
+        "en": "radiate",
+        "ja": ["放射する","発散する","※光や熱などを放射することが多い"],
+        "category": ["verb"]
+    },
+    {
+        "id": 371,
+        "en": "stunning ",
+        "ja": ["（気絶するほど、驚くほど）素晴らしい","見事な","驚くべき"],
+        "category": ["adjective"]
+    },
+    {
+        "id": 372,
+        "en": "・turn (him her) down",
+        "ja": ["（彼・彼女の提案、申し出を）断る、却下する","※特に誘いを断る時に使う表現"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 373,
+        "en": "pleasure doing business with you ",
+        "ja": ["あなたと仕事できて光栄でした","※ビジネスの取引が終わった時に使う表現"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 374,
+        "en": "crusty",
+        "ja": ["表面の硬い","カリカリした","※パンやピザの表面がカリカリしていることが多い"],
+        "category": ["idiom"]
+    },
+    {
+        "id": 375,
+        "en": "hunk",
+        "ja": ["(肉、パンなどの)大きなかたまり","※特に肉やパンの大きな塊を指すことが多い"],
+        "category": ["noun"]
     }
 ]
