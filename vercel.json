@@ -28,6 +28,10 @@
         {
             "src": "/(.*)",
             "dest": "/api/index.php"
+        },
+        {
+            "src": "/css/app.css",
+            "dest": "/public/css/app.css"
         }
     ],
     "env": {
