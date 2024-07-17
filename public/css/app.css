@@ -1,0 +1,30 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.card__imgframe{
+    width: 100%;
+    height: auto;
+    box-sizing: border-box;
+}
+.card__textbox{
+    width: 100%;
+    height: auto;
+    padding: 20px 18px;
+    background: #ffffff;
+    box-sizing: border-box;
+}
+.card__textbox > * + *{
+    margin-top: 10px;
+}
+.card__titletext{
+    line-height: 125%;
+}
+
+.card-skin{
+    overflow: hidden;
+    border-radius: 8px;
+    border-left: solid 1px #ddd;
+    border-right: solid 1px #ddd;
+    border-bottom: solid 5px #888;
+}
