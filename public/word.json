@@ -93,7 +93,7 @@
         "id": 16,
         "en": "slide into the DMs",
         "ja": ["SNSでダイレクトに相手にメッセージを送ること"],
-        "category": ["idioms"]
+        "category": ["idiom"]
     },
     {
         "id": 17,
@@ -308,8 +308,8 @@
     {
         "id": 52,
         "en": "wind your neck in",
-        "ja": ["だまれ（shut up と同じ"],
-        "category": ["idiom（イギリス英語）"]
+        "ja": ["だまれ（shut up と同じ","※イギリス英語"],
+        "category": ["idiom"]
     },
     {
         "id": 53,
@@ -332,8 +332,8 @@
     {
         "id": 56,
         "en": "loo",
-        "ja": ["トイレ"],
-        "category": ["idiom（イギリス英語）"]
+        "ja": ["トイレ","※イギリス英語"],
+        "category": ["idiom"]
     },
     {
         "id": 57,
@@ -758,8 +758,8 @@
     {
         "id": 127,
         "en": "reckon ",
-        "ja": ["考える"],
-        "category": ["verb（イギリス英語）"]
+        "ja": ["考える","※イギリス英語"],
+        "category": ["verb"]
     },
     {
         "id": 128,
@@ -1105,9 +1105,9 @@
     },
     {
         "id": 185,
-        "en": "",
-        "ja": [""],
-        "category": [""]
+        "en": "have the final word ",
+        "ja": ["最終的な決断を下す"],
+        "category": ["idiom"]
     },
     {
         "id": 186,

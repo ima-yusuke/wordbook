@@ -9,6 +9,8 @@ Route::get('/', function () {
 });
 
 Route::get('/', [WordController::class, 'ShowWordPage'])->name('ShowWordPage');
+Route::post('/', [WordController::class, 'SearchCategory'])->name('SearchCategory');
+
 
 Route::get('/dashboard', function () {
     return view('dashboard');

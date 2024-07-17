@@ -5,12 +5,12 @@
 
         @if(isset($data))
             <p class="text-4xl font-bold">{{count($data)}}件</p>
-            <form action="{{route('search_category')}}" method="post" id="search-form">
+            <form action="{{route('SearchCategory')}}" method="post" id="search-form">
                 @csrf
                 <select name="category" id="category-select" class="text-2xl">
                     <option>カテゴリーを選択してください</option>
-                    @foreach($addressOptions as $value)
-                        <option value="{{$value}}">{{$value}}</option>
+                    @foreach($categories as $category)
+                        <option value="{{$category}}">{{$category}}</option>
                     @endforeach
                 </select>
             </form>
