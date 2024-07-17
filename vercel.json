@@ -13,10 +13,7 @@
         },
         {
             "src": "vite.config.js",
-            "use": "@vercel/static-build",
-            "config": {
-                "distDir": "public/build"
-            }
+            "use": "@vercel/static-build"
         }
     ],
     "routes": [
